@@ -8,3 +8,7 @@
     border-width: 5px;
     width: 30%;
   }
+
+.portrait {
+  border-radius: 100%;
+}
